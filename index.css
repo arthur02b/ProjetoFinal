@@ -100,8 +100,8 @@ hr{
     background-color: #fff;
     color: #393E46;
 }
-
 /* fim cabeçalho */
+
 
 .sec1 h1{
     text-align: center;
@@ -169,8 +169,8 @@ hr{
     border-radius: 3px;
 }
 
-/* INICIO TABELA */
 
+/* INICIO TABELA */
 .sec2 h1{
     color: #fff;
     text-align: center;
@@ -208,7 +208,6 @@ hr{
     text-decoration: underline;
     cursor: pointer;
 }
-
 
 
 /* início rodape */
